@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<computers>
+	<manufacturers>
+		<manufacturer>
+			<brand>DELL</brand>
+			<models>
+				<model>
+					<name>DELL INSPIRION 245000</name>
+					<specifications>
+						<storage>
+							<storageType>HDD</storageType>
+							<capacity>500</capacity>
+							<connectionType>SATA III</connectionType>
+						</storage>
+						<operationSystem>Windows</operationSystem>
+						<processor>
+							<name>Intel i7-10700</name>
+							<cores>8</cores>
+							<threads>16</threads>
+							<baseFrequency>2.90</baseFrequency>
+							<maxFrequency>4.80</maxFrequency>
+						</processor>
+						<ram>
+                                                    <capacity>16</capacity>
+                                                    <memoryVoltage>1.35</memoryVoltage>
+                                                    <tacticalFrequency>3200</tacticalFrequency>
+                                                </ram>
+						<powerSupply>
+							<producer>Deepcool DQ750ST</producer>
+							<powerWats>750</powerWats>
+                                                        <inputVoltage>100 - 240 V</inputVoltage>
+                                                        <operatingTemperature>0 - 40 °C</operatingTemperature>
+						</powerSupply>
+						<motherboard>
+							<brand>MSI</brand>
+							<compatibleCpuBrand>Intel</compatibleCpuBrand>
+							<ramType>DD4</ramType>
+							<maxRams>32</maxRams>
+							<memorySlotsNumer>4</memorySlotsNumer>
+						</motherboard>
+						<graphicCard>
+							<brand>MSI</brand>
+							<description>MSI GTX 1050 TI</description>
+							<memory>4 GB GDDR5</memory>
+							<coreClock>1379</coreClock>
+							<boostClock>1493</boostClock>
+						</graphicCard>
+					</specifications>
+				</model>
+                                <model>
+					<name>DELL INSPIRION 155000</name>
+					<specifications>
+						<storage>
+							<storageType>HDD</storageType>
+							<capacity>900</capacity>
+							<connectionType>SATA III</connectionType>
+						</storage>
+						<operationSystem>Linux</operationSystem>
+						<processor>
+							<name>Intel i5-10700</name>
+							<cores>8</cores>
+							<threads>16</threads>
+							<baseFrequency>2.50</baseFrequency>
+							<maxFrequency>3.70</maxFrequency>
+						</processor>
+						<ram>
+                                                    <capacity>16</capacity>
+                                                    <memoryVoltage>1.35</memoryVoltage>
+                                                    <tacticalFrequency>3200</tacticalFrequency>
+                                                </ram>
+						<powerSupply>
+							<producer>Deepcool DQ750ST</producer>
+							<powerWats>750</powerWats>
+                                                        <inputVoltage>100 - 240 V</inputVoltage>
+                                                        <operatingTemperature>0 - 40 °C</operatingTemperature>
+						</powerSupply>
+						<motherboard>
+							<brand>ASUS</brand>
+							<compatibleCpuBrand>Intel</compatibleCpuBrand>
+							<ramType>DD4</ramType>
+							<maxRams>32</maxRams>
+							<memorySlotsNumer>4</memorySlotsNumer>
+						</motherboard>
+						<graphicCard>
+							<brand>MSI</brand>
+							<description>MSI GTX 1060 TI</description>
+							<memory>6 GB GDDR5</memory>
+							<coreClock>1379</coreClock>
+							<boostClock>1493</boostClock>
+						</graphicCard>
+					</specifications>
+				</model>
+			</models>
+		</manufacturer>
+	</manufacturers>
+</computers>
